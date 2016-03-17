@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2016 Bertware
+Based on the original nodejs stieviewer by steffest. Copyright (c) 2015 Steffest.
+Copyright (c) 2016 Bertware.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
